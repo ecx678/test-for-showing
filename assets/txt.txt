@@ -1,0 +1,2 @@
+För att assets mappen inte ska försvinna
+man gör en mapp genom  att skriva / i slutet är namnet
